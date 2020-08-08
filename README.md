@@ -1,6 +1,16 @@
-<h1 align="center">Welcome to my Github:octocat:	</h1>
-<h3 align="center">:fire:	"Learn the rules like a professional, break them like an artist":fire:	</h3>
+<h1 align="center">Andrea De Martino :octocat:	</h1>
 
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <h4 align="center">:fire:	"Learn the rules like a professional, break them like an artist":fire:	</h4>
+</p>
+ 
+<p align="center">
+  <a href=https://codepen.io/andreademartino target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg               alt="rahuldkjain" height="20" width="20" /></a>
+  <a href=https://www.linkedin.com/in/andrea-de-martino target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg     alt="rahuldkjain" height="20" width="20" /></a>
+</p>
+
+##
 
 
 <p align="center">
