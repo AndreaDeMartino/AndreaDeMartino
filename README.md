@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my Github:octocat:	</h1>
 <h3 align="center">:fire:	"Learn the rules like a professional, break them like an artist":fire:	</h3>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=andreademartino&show_icons=true&theme=onedark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=andreademartino&show_icons=true&theme=prussian)
 
 
 <p align="center">
