@@ -1,5 +1,5 @@
-<h1 align="center">Andrea De Martino :octocat: 	</h1>
-<h5 align="center">Full Stack Web Developer	:computer:	</h5>
+<h1 align="center">Andrea De Martino :octocat: </h1>
+<h5 align="center">Full Stack Web Developer	</h5>
 
 
 <p align="center">
@@ -8,8 +8,10 @@
 </p>
  
 <p align="center">
-  <a href=https://codepen.io/andreademartino target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg               alt="rahuldkjain" height="20" width="20" /></a>
-  <a href=https://www.linkedin.com/in/andrea-de-martino target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg     alt="rahuldkjain" height="20" width="20" /></a>
+  <a href=https://codepen.io/andreademartino target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg            alt="andreademartino" height="20" width="20" />
+  </a>
+  <a href=https://www.linkedin.com/in/andrea-de-martino target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg     alt="andreademartino" height="20" width="20" />
+  </a>
 </p>
 
 ##
