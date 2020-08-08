@@ -1,5 +1,5 @@
-<h1 align="center">Andrea De Martino 	</h1>
-<h5 align="center">Full Stack Web Developer	:octocat:</h5>
+<h1 align="center">Andrea De Martino :octocat: 	</h1>
+<h5 align="center">Full Stack Web Developer	:computer:	</h5>
 
 
 <p align="center">
