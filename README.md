@@ -1,4 +1,6 @@
-<h1 align="center">Andrea De Martino :octocat:	</h1>
+<h1 align="center">Andrea De Martino 	</h1>
+<h5 align="center">Full Stack Web Developer	:octocat:</h5>
+
 
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
