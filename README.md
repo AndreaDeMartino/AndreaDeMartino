@@ -18,10 +18,10 @@
   <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> 
   <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-   
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreademartino&layout=compact&hide=html" alt="andreademartino" />
+
 </p>
 
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreademartino&layout=compact&hide=html" alt="andreademartino" />
 
 
 
