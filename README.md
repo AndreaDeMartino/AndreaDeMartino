@@ -1,9 +1,7 @@
 <h1 align="center">Welcome to my Github:octocat:	</h1>
 <h3 align="center">:fire:	"Learn the rules like a professional, break them like an artist":fire:	</h3>
 
-<p align="center">
-  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=andreademartino&show_icons=true&theme=prussian">
-</p>
+
 
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -26,6 +24,8 @@
   <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> 
 </p>
 
-
+<p align="center">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=andreademartino&show_icons=true&theme=prussian">
+</p>
 
 
