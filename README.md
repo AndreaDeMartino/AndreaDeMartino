@@ -35,5 +35,3 @@
 <p align="center">
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=andreademartino&show_icons=true&theme=prussian">
 </p>
-
-
