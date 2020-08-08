@@ -4,6 +4,9 @@
 <p align="center">
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=andreademartino&show_icons=true&theme=prussian">
 </p>
+<p align="center">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreademartino&theme=prussian&layout=compact">
+</p>
 
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
