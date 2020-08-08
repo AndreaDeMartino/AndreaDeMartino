@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my Github:octocat:	</h1>
 <h3 align="center">:fire:	"Learn the rules like a professional, break them like an artist":fire:	</h3>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=andreademartino&show_icons=true&theme=onedark)
+
 
 <p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
   <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
@@ -18,8 +18,10 @@
   <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> 
   <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreademartino&layout=compact&hide=html" alt="andreademartino" />
+   
 </p>
+
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreademartino&layout=compact&hide=html" alt="andreademartino" />
 
 
 
