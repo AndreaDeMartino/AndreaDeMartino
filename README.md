@@ -1,9 +1,9 @@
-<h1 align="center">Welcome👋 Andrea</h1>
-<h3 align="center">"Learn the rules like a professional, break them like an artist"</h3>
+<h1 align="center">Welcome to my Github:octocat:	</h1>
+<h3 align="center">:fire:	"Learn the rules like a professional, break them like an artist":fire:	</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreademartino" alt="andreademartino" /> </p>
 
-- 🌱 I’m currently learning **Vue.js,React, Symfony**
+- :computer:	 I’m currently learning **Vue.js,React, Symfony**
 
 - 📫 How to reach me **https://www.linkedin.com/in/andrea-de-martino/**
 
