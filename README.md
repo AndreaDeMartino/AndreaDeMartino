@@ -10,7 +10,7 @@
 <p align="center">
   <a href=https://codepen.io/andreademartino target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg            alt="andreademartino" height="20" width="20" />
   </a>
-  <a href=https://www.linkedin.com/in/andrea-de-martino target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg     alt="andreademartino" height="20" width="20" />
+  <a href=https://www.linkedin.com/in/andrea-de-martino target="blank"><img align="center" src=https://lh3.googleusercontent.com/proxy/eJLG8ub5nyvN53rruVLKNy-mO9tRSAAtKUDwFvfSL8QCfUxOWm6iPNEwANdtuxhO2fDy8YsG910HbxmYgf2-FxkTsoUvZapkIWl1YfrAvf5552g0qbVVYUYJytUfYi0     alt="andreademartino" height="25" width="25" />
   </a>
 </p>
 
