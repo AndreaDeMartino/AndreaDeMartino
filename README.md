@@ -37,5 +37,5 @@
 </p>
 
 <p align="center">
-  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=andreademartino&show_icons=true&theme=prussian">
+  <img width="460" height="300" src="https://github-readme-stats-swart-psi.vercel.app/api?username=andreademartino&theme=vue&show_icons=true&hide=contribs,issues">
 </p>
