@@ -3,7 +3,7 @@
 
 
 <p align="center">
- <img width="100px" src="https://i.ibb.co/pKhkwdZ/logo-ccswme.png" align="center" alt="GitHub Readme Stats" />
+ <img width="400px" src="https://magiccopy.xyz/assets/images/hadder.gif" align="center" alt="GitHub Readme Stats" />
  <h4 align="center">:fire:	"Learn the rules like a professional, break them like an artist":fire:	</h4>
 </p>
 
