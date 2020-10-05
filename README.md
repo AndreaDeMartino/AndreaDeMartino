@@ -3,6 +3,9 @@
 
 <p align="center">
  <img width="400px" src="https://magiccopy.xyz/assets/images/hadder.gif" align="center" alt="GitHub Readme Stats" />
+</p>
+
+<p align="center">
  <h4 align="center">:fire:	"Learn the rules like a professional, break them like an artist":fire:	</h4>
 </p>
 
@@ -13,8 +16,9 @@
   </a>
 </p>
 
-##
-
+<p align="center">
+  <img width="450" height="160" src="https://github-readme-stats-swart-psi.vercel.app/api?username=andreademartino&theme=prussian&show_icons=true&hide=contribs,issues">
+</p>
 
 <p align="center">
 
@@ -34,6 +38,10 @@
 
 </p>
 
+##
+
 <p align="center">
-  <img width="450" height="160" src="https://github-readme-stats-swart-psi.vercel.app/api?username=andreademartino&theme=prussian&show_icons=true&hide=contribs,issues">
+  <img width="550" height="550" src="https://wakatime.com/share/@5470f511-c670-4702-a181-138e104c1f28/95e874c2-1e90-4481-914f-3d1a1d34ef3c.svg">
 </p>
+
+
