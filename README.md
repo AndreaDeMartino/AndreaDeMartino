@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img width="450" height="160" src="https://github-readme-stats-swart-psi.vercel.app/api?username=andreademartino&theme=vue&show_icons=true&hide=contribs,issues">
+  <img width="450" height="160" src="https://github-readme-stats-swart-psi.vercel.app/api?username=andreademartino&theme=nord&show_icons=true&hide=contribs,issues">
 </p>
 
 <p align="center">
