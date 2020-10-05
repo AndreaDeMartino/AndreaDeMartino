@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img width="450" height="160" src="https://github-readme-stats-swart-psi.vercel.app/api?username=andreademartino&theme=prussian&show_icons=true&hide=contribs,issues">
+  <img width="450" height="160" src="https://github-readme-stats-swart-psi.vercel.app/api?username=andreademartino&theme=vue&show_icons=true&hide=contribs,issues">
 </p>
 
 <p align="center">
@@ -38,10 +38,10 @@
 
 </p>
 
-##
+#
 
 <p align="center">
-  <img height="450" src="https://wakatime.com/share/@5470f511-c670-4702-a181-138e104c1f28/5439f217-b1c3-478c-9237-5cb26a2a5f47.svg">
+  <img height="400" src="https://wakatime.com/share/@5470f511-c670-4702-a181-138e104c1f28/5439f217-b1c3-478c-9237-5cb26a2a5f47.svg">
 </p>
 
 
