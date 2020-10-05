@@ -41,7 +41,7 @@
 ##
 
 <p align="center">
-  <img width="550" height="550" src="https://wakatime.com/share/@5470f511-c670-4702-a181-138e104c1f28/95e874c2-1e90-4481-914f-3d1a1d34ef3c.svg">
+  <img height="450" src="https://wakatime.com/share/@5470f511-c670-4702-a181-138e104c1f28/b2a41086-22e2-4b1b-9124-6fdac8ba7e1e.svg">
 </p>
 
 
