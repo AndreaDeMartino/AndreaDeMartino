@@ -47,7 +47,5 @@
 </p>
 
 <p align="center">
-  <img height="400" src="https://wakatime.com/share/@5470f511-c670-4702-a181-138e104c1f28/8b09f854-ecbf-4d15-a576-025aa6526a7a.svg">
+  <img height="400" src="https://i.ibb.co/MRMWZ0m/Languages-I-have-used-in-the-last-7-days-1.png">
 </p>
-
-
