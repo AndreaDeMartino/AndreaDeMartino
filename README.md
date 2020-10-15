@@ -1,5 +1,5 @@
 <h1 align="center">Andrea De Martino :octocat: </h1>
-<h6 align="center">Front End Web Developer	</h6>
+<h6 align="center">Front-End Web Developer	</h6>
 
 <p align="center">
  <img width="400px" src="https://magiccopy.xyz/assets/images/hadder.gif" align="center" alt="GitHub Readme Stats" />
