@@ -41,7 +41,3 @@
 </p>
 
 #
-
-<p align="center">
-  <img height="400" src="https://i.ibb.co/MRMWZ0m/Languages-I-have-used-in-the-last-7-days-1.png">
-</p>
